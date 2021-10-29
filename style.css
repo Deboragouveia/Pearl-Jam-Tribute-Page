@@ -1,0 +1,62 @@
+body {
+    background-color: #7a1010;
+}
+
+#title {
+    color: #FBFCF8;
+    text-align: center;
+    font-family: Permanent Marker, generic_name;
+}
+
+#container {
+    background-color: #191919;
+    color: #FBFCF8;
+    border-radius: 10px;
+    font-family: Lora, generic_name;
+    margin: 10px;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 100%;
+    max-width: 725px;
+    border-radius: 5px;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#description {
+    padding: 20px;
+    text-align: center;
+}
+
+.band-members {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 100%;
+    max-width: 500px;
+    float: left;
+}
+
+.img-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 100%;
+    max-width: 200px;
+    float: right;
+}
+
+footer {
+    color: #FBFCF8;
+    text-align: center;
+}
+
